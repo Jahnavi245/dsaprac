@@ -7,3 +7,7 @@ def is_armstrong(n):
     return total == n
 print("Input: 153 ->", is_armstrong(153))
 print("Input: 9474 ->", is_armstrong(9474))
+
+
+
+
