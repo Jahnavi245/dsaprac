@@ -13,4 +13,6 @@ def insertion_sort(arr):
 if __name__ == "__main__":
     arr = [13, 46, 24, 52, 20, 9]
     print("Before insertion sort:", arr)
-    insertion_sort(arr)
+    insertion_sort(arr)             
+       
+       
